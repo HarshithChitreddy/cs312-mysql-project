@@ -1,3 +1,4 @@
+-- -*- sql -*-
 CREATE TABLE reddy17_students (
     name VARCHAR(255),
     id INT,
